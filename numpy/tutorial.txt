@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=VXU4LSAQDSc&t=2998s
+
+numpy = numerical python
+
+written in C under the hood
+
